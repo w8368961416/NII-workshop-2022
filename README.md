@@ -12,3 +12,6 @@ spelling error in variable
 ```witty_repair <- witty_values
 ```witty_repair[c(1,3)]
 ```[1]  3 15
+```> witty_names=c("X","Y","p53")
+```> names(witty_repair)=witty_names
+```> witty_repair
